@@ -8,7 +8,8 @@
 - [7일차](20230524.md)
 - [8일차](20230525.md)
 - [9일차](20230526.md)
+- [10일차](20230530.md)
 
 
 
-- https://nuggy875.tistory.com/172
+- ubuntu 갑작스런 용량 부족할때 https://nuggy875.tistory.com/172
