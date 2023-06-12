@@ -29,4 +29,6 @@
 #### 참고 사이트
 - ubuntu 갑작스런 용량 부족할때 https://nuggy875.tistory.com/172
 - https://github.com/AntonSangho
+- https://drive.google.com/drive/folders/1XuUpaZ1L_UwkekqrXShKBq309FOXJMjC
+- https://github.com/jKonn/opencv-example-yh2023-firsthalf
 - https://wikidocs.net/35755
